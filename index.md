@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy - Prosper Ledger
+layout: default
 ---
 
 # Privacy Policy / Chính sách quyền riêng tư
