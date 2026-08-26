@@ -1,6 +1,5 @@
 ---
 title: Privacy Policy - Prosper Ledger
-layout: default
 ---
 
 # Privacy Policy / Chính sách quyền riêng tư
@@ -37,7 +36,7 @@ This policy may be updated when the application's information-handling practices
 
 Questions about this policy can be submitted through the project's public support page:
 
-<https://github.com/cuupham/quan-ly-tai-chinh/issues>
+<https://github.com/cuupham/prosper-ledger-privacy/issues>
 
 ## Tiếng Việt
 
@@ -69,4 +68,4 @@ Chính sách này có thể được cập nhật khi cách ứng dụng xử l�
 
 Câu hỏi về chính sách này có thể được gửi qua trang hỗ trợ công khai của dự án:
 
-<https://github.com/cuupham/quan-ly-tai-chinh/issues>
+<https://github.com/cuupham/prosper-ledger-privacy/issues>
